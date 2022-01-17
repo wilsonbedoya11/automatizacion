@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a6e8408-bb0e-4f65-93f9-4e2b7a580124" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="23KPJHA7FsiTwO1nFA2iwOywC9I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="questions" />
+      <recent name="tasks" />
+      <recent name="userinterface" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="RunnerTags" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;runners.RunnerTags&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.RunnerTags" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a6e8408-bb0e-4f65-93f9-4e2b7a580124" name="Default Changelist" comment="" />
+      <created>1641479732403</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641479732403</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="25" key="#Project_Settings" timestamp="1641519047347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Settings/0.0.1366.728@0.0.1366.728" timestamp="1641519047347" />
+    <state x="275" y="25" key="#Project_Structure" timestamp="1641664122625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1641664122625" />
+    <state x="275" y="25" key="#SonarLint" timestamp="1641519042608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="#SonarLint/0.0.1366.728@0.0.1366.728" timestamp="1641519042608" />
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser" timestamp="1642088013679">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="73" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1642088013679" />
+    <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1642087610393">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="144" key="#com.intellij.ide.util.PackageChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1642087610393" />
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom" timestamp="1642126580584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1642126580584" />
+    <state width="1323" height="2" key="GridCell.Tab.0.center" timestamp="1642126580584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1642126580584" />
+    <state width="1323" height="2" key="GridCell.Tab.0.left" timestamp="1642126580583">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1642126580583" />
+    <state width="1323" height="2" key="GridCell.Tab.0.right" timestamp="1642126580584">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="2" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1642126580584" />
+    <state x="263" y="109" key="IDE.errors.dialog" timestamp="1641480076985">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="263" y="109" key="IDE.errors.dialog/0.0.1366.728@0.0.1366.728" timestamp="1641480076985" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1641518353258">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1641518353258" />
+    <state x="499" y="144" key="chooseDestDirectoryDialog" timestamp="1641610439907">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="499" y="144" key="chooseDestDirectoryDialog/0.0.1366.728@0.0.1366.728" timestamp="1641610439907" />
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog" timestamp="1642427473429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="191" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1642427473429" />
+    <state x="156" y="133" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx" timestamp="1641519040892">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="156" y="133" key="org.sonarlint.intellij.config.global.wizard.ServerConnectionWizard$ServerConnectionWizardEx/0.0.1366.728@0.0.1366.728" timestamp="1641519040892" />
+    <state x="275" y="25" key="scopes" timestamp="1641494650504">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="25" key="scopes/0.0.1366.728@0.0.1366.728" timestamp="1641494650504" />
+  </component>
+</project>
